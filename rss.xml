@@ -2,44 +2,37 @@
     <channel>
         <title><![CDATA[decisive.photography - A street photography adventure by Daniel Durrans]]></title>
         <description><![CDATA[decisive.photography - A street photography adventure by Daniel Durrans]]></description>
-        <link>https://thegrid.ai/decisive-photography/</link>
+        <link>http://decisive.photography/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Mon, 21 Mar 2016 19:04:19 GMT</lastBuildDate>
-        <atom:link href="https://thegrid.ai/decisive-photography/rss.xml" rel="self" type="application/rss+xml"/>
+        <lastBuildDate>Mon, 21 Mar 2016 20:44:29 GMT</lastBuildDate>
+        <atom:link href="http://decisive.photography/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[No title]]></title>
             <description><![CDATA[<img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/69db796b8450e6adb4fd50388741b238c9f32371.jpg" alt="" title="">]]></description>
-            <link>https://thegrid.ai/decisive-photography/15f551fa-1f73-4269-b92c-fc653d67304e/index.html</link>
+            <link>http://decisive.photography/15f551fa-1f73-4269-b92c-fc653d67304e/index.html</link>
             <guid isPermaLink="false">15f551fa-1f73-4269-b92c-fc653d67304e</guid>
             <pubDate>Mon, 21 Mar 2016 19:01:09 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[No title]]></title>
             <description><![CDATA[<img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/7bdddf6bfd71cdb3d24f6dd4b5b094acf97df4ce.jpg" alt="" title="">]]></description>
-            <link>https://thegrid.ai/decisive-photography/487c871d-418a-426d-8bcf-1a3c5f1d81de/index.html</link>
+            <link>http://decisive.photography/487c871d-418a-426d-8bcf-1a3c5f1d81de/index.html</link>
             <guid isPermaLink="false">487c871d-418a-426d-8bcf-1a3c5f1d81de</guid>
             <pubDate>Mon, 21 Mar 2016 19:01:20 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[No title]]></title>
             <description><![CDATA[<img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/243c5c77e08b20aee30323d447227e01fb3b4f78.jpg" alt="" title="">]]></description>
-            <link>https://thegrid.ai/decisive-photography/b0c54c7e-fe64-480e-a8d7-69c8416be07e/index.html</link>
+            <link>http://decisive.photography/b0c54c7e-fe64-480e-a8d7-69c8416be07e/index.html</link>
             <guid isPermaLink="false">b0c54c7e-fe64-480e-a8d7-69c8416be07e</guid>
             <pubDate>Mon, 21 Mar 2016 19:01:28 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[No title]]></title>
             <description><![CDATA[<img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/c5148139cadd769e2e293a126fda2e677d29d58b.jpg" alt="" title="">]]></description>
-            <link>https://thegrid.ai/decisive-photography/ff08a241-73c9-4ae2-9d68-e7098584fc64/index.html</link>
+            <link>http://decisive.photography/ff08a241-73c9-4ae2-9d68-e7098584fc64/index.html</link>
             <guid isPermaLink="false">ff08a241-73c9-4ae2-9d68-e7098584fc64</guid>
             <pubDate>Mon, 21 Mar 2016 19:04:17 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[No title]]></title>
-            <description><![CDATA[<img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/6535f5c89e898ac6bba25828b8b263160e07fd89.jpg" alt="" title="">]]></description>
-            <link>https://thegrid.ai/decisive-photography/22ba9e87-fdee-47e4-aad0-7a5a63a49be7/index.html</link>
-            <guid isPermaLink="false">22ba9e87-fdee-47e4-aad0-7a5a63a49be7</guid>
-            <pubDate>Mon, 21 Mar 2016 19:01:50 GMT</pubDate>
         </item>
     </channel>
 </rss>
