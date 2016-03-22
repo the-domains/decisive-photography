@@ -6,8 +6,8 @@ inLanguage: null
 starred: false
 keywords: []
 description: ''
-datePublished: '2016-03-22T13:33:10.522Z'
-dateModified: '2016-03-22T13:33:04.216Z'
+datePublished: '2016-03-22T21:44:36.870Z'
+dateModified: '2016-03-22T21:44:23.593Z'
 title: Social Profiles
 author: []
 sourcePath: _posts/2016-03-22-social-profiles.md
