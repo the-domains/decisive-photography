@@ -6,8 +6,8 @@ inLanguage: null
 starred: false
 keywords: []
 description: ''
-datePublished: '2016-03-22T11:28:28.066Z'
-dateModified: '2016-03-22T11:28:08.224Z'
+datePublished: '2016-03-22T11:31:23.844Z'
+dateModified: '2016-03-22T11:31:14.331Z'
 title: Social Profiles
 author: []
 sourcePath: _posts/2016-03-22-social-profiles.md
@@ -27,8 +27,9 @@ Social Profiles
 * [Twitter][0]
 * [Flickr][1]
 * [Instagram][2]
-* Facebook
+* [Facebook][3]
 
 [0]: http://twitter.com/dunos
 [1]: https://www.flickr.com/photos/danieldurrans/
 [2]: https://www.instagram.com/dunos/
+[3]: https://www.facebook.com/danieldurrans
