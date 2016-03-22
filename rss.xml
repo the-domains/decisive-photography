@@ -4,7 +4,7 @@
         <description><![CDATA[decisive.photography]]></description>
         <link>http://decisive.photography/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Tue, 22 Mar 2016 21:38:34 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 22 Mar 2016 21:43:40 GMT</lastBuildDate>
         <atom:link href="http://decisive.photography/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[Bristol; February 2016]]></title>
@@ -42,11 +42,11 @@
             <pubDate>Tue, 22 Mar 2016 21:38:31 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[No title]]></title>
-            <description><![CDATA[<img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/c5148139cadd769e2e293a126fda2e677d29d58b.jpg" alt="" title="">]]></description>
+            <title><![CDATA[Umbrella 1]]></title>
+            <description><![CDATA[<article><h1>Umbrella 1</h1><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/c5148139cadd769e2e293a126fda2e677d29d58b.jpg"></article>]]></description>
             <link>http://decisive.photography/ff08a241-73c9-4ae2-9d68-e7098584fc64/index.html</link>
             <guid isPermaLink="false">ff08a241-73c9-4ae2-9d68-e7098584fc64</guid>
-            <pubDate>Tue, 22 Mar 2016 14:03:54 GMT</pubDate>
+            <pubDate>Tue, 22 Mar 2016 21:43:31 GMT</pubDate>
         </item>
     </channel>
 </rss>
