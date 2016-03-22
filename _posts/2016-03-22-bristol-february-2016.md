@@ -7,8 +7,8 @@ inLanguage: null
 starred: false
 keywords: []
 description: ''
-datePublished: '2016-03-22T08:19:28.885Z'
-dateModified: '2016-03-22T08:19:19.895Z'
+datePublished: '2016-03-22T08:31:30.252Z'
+dateModified: '2016-03-22T08:19:33.990Z'
 author:
   - name: Daniel Durrans
     url: 'https://www.flickr.com/photos/danieldurrans/'
@@ -33,4 +33,4 @@ _type: Photograph
 _context: 'http://schema.org'
 
 ---
-![Bristol; February 2016](https://farm2.staticflickr.com/1467/24550577383_9377b67e72_b.jpg)
+![Bristol; February 2016](https://s3-us-west-2.amazonaws.com/the-grid-img/p/67c84509e74689c582f9dd2c1f5d9d7c6f22e567.jpg)
