@@ -1,6 +1,6 @@
 name: decisive.photography
 favicon: null
-layout_spectrum: 0.24952
+layout_spectrum: 0.50385
 typography_spectrum: 0.21244
 title: decisive.photography
 cta:
@@ -22,8 +22,8 @@ color:
     - '#808080'
     - '#00b6d9'
     - '#d7d7d7'
-  brandStrength: 0.5
+  brandStrength: 0
   lightness: 0
   saturation: 0.5
-  rhythmicContrast: 0.5
+  rhythmicContrast: 0.25
 purpose: []
