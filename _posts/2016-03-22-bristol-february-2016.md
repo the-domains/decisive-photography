@@ -7,8 +7,8 @@ inLanguage: null
 starred: false
 keywords: []
 description: ''
-datePublished: '2016-03-22T20:33:55.091Z'
-dateModified: '2016-03-22T20:33:42.632Z'
+datePublished: '2016-05-14T22:27:54.551Z'
+dateModified: '2016-03-27T19:53:12.382Z'
 author:
   - name: Daniel Durrans
     url: 'https://www.flickr.com/photos/danieldurrans/'
@@ -22,7 +22,6 @@ app_links:
     app_store_id: '328407587'
 title: Bristol; February 2016
 sourcePath: _posts/2016-03-22-bristol-february-2016.md
-published: true
 authors: []
 publisher:
   name: Flickr
