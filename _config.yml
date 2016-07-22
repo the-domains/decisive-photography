@@ -1,20 +1,4 @@
-name: decisive.photography
-favicon: null
-layout_spectrum: 0.50385
 typography_spectrum: 0.21244
-title: decisive.photography
-cta:
-  domain: null
-  bucket: null
-  version: null
-analytics:
-  google: UA-56810-6
-  facebook: null
-  twitter: null
-opengraph:
-  image: null
-  type: null
-  appId: null
 color:
   brandColors:
     - '#ffffff'
@@ -26,4 +10,23 @@ color:
   lightness: 0
   saturation: 0.5
   rhythmicContrast: 0.25
+opengraph:
+  image: null
+  type: null
+  appId: null
+layout_spectrum: 0.50385
+analytics:
+  google: UA-56810-6
+  facebook: null
+  twitter: null
+author:
+  name: Daniel Durrans
+  email: dan@durrans.com
+name: decisive.photography
+cta:
+  domain: null
+  bucket: null
+  version: null
+favicon: null
+title: decisive.photography
 purpose: []
