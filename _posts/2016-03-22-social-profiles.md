@@ -1,23 +1,19 @@
 ---
-inFeed: false
-hasPage: true
-inNav: true
-inLanguage: null
-starred: false
-keywords: []
-description: ''
-datePublished: '2016-03-22T21:44:36.870Z'
-dateModified: '2016-03-22T21:44:23.593Z'
-title: Social Profiles
-author: []
+datePublished: '2016-07-22T07:34:50.979Z'
 sourcePath: _posts/2016-03-22-social-profiles.md
-published: true
+inFeed: false
 authors: []
-publisher:
-  name: null
-  domain: null
-  url: null
-  favicon: null
+hasPage: true
+keywords: []
+author: []
+dateModified: '2016-07-22T07:34:50.208Z'
+title: ''
+publisher: {}
+description: ''
+inLanguage: null
+inNav: true
+via: {}
+starred: false
 url: social-profiles/index.html
 _type: WebPage
 
