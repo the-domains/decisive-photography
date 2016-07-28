@@ -31,6 +31,9 @@ navigation:
   - name: Personal
     url: 'http://durrans.com'
     type: external
+  - name: My Photography
+    url: 'http://danieldurrans.co.uk'
+    type: external
 favicon: null
 title: decisive.photography
 purpose: []
