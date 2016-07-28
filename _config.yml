@@ -1,30 +1,4 @@
-name: decisive.photography
-favicon: null
-layout_spectrum: 0.74708
 typography_spectrum: 0.21244
-author:
-  name: Daniel Durrans
-  email: dan@durrans.com
-navigation:
-  - name: Personal
-    url: 'http://durrans.com'
-    type: external
-  - name: My Photography
-    url: 'http://danieldurrans.co.uk'
-    type: external
-title: decisive.photography
-cta:
-  domain: null
-  bucket: null
-  version: null
-analytics:
-  google: UA-56810-6
-  facebook: null
-  twitter: null
-opengraph:
-  image: null
-  type: null
-  appId: null
 color:
   brandColors:
     - '#ffffff'
@@ -36,4 +10,30 @@ color:
   lightness: 1
   saturation: 1
   rhythmicContrast: 0.5
+opengraph:
+  image: null
+  type: null
+  appId: null
+layout_spectrum: 0.74708
+analytics:
+  google: UA-56810-6
+  facebook: null
+  twitter: null
+author:
+  name: Daniel Durrans
+  email: dan@durrans.com
+name: decisive.photography
+cta:
+  domain: null
+  bucket: null
+  version: null
+navigation:
+  - name: Profile
+    url: 'http://durrans.com'
+    type: external
+  - name: My Photography
+    url: 'http://danieldurrans.co.uk'
+    type: external
+favicon: null
+title: decisive.photography
 purpose: []
