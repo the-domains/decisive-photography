@@ -31,7 +31,7 @@ navigation:
   - name: Profile
     url: 'http://durrans.com'
     type: external
-  - name: My Photography
+  - name: Photography
     url: 'http://danieldurrans.co.uk'
     type: external
 favicon: null
