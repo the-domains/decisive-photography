@@ -4,7 +4,7 @@
         <description><![CDATA[decisive.photography]]></description>
         <link>http://decisive.photography/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Thu, 28 Jul 2016 07:02:49 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 28 Jul 2016 07:02:50 GMT</lastBuildDate>
         <atom:link href="http://decisive.photography/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[Bristol; April 2016]]></title>
@@ -28,13 +28,6 @@
             <pubDate>Sat, 14 May 2016 22:32:52 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[Bristol; March 2016]]></title>
-            <description><![CDATA[<article><h1>Bristol; March 2016</h1><p>Mobile phones are all around us, with every spare minute of the day spent examining their screens.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/69db796b8450e6adb4fd50388741b238c9f32371.jpg"></article>]]></description>
-            <link>http://decisive.photography/bristol-march-2016/index.html</link>
-            <guid isPermaLink="false">15f551fa-1f73-4269-b92c-fc653d67304e</guid>
-            <pubDate>Sat, 14 May 2016 22:32:45 GMT</pubDate>
-        </item>
-        <item>
             <title><![CDATA[Bristol; February 2016]]></title>
             <description><![CDATA[<article><h1>Bristol; February 2016</h1><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/67c84509e74689c582f9dd2c1f5d9d7c6f22e567.jpg"></article>]]></description>
             <link>https://www.flickr.com/photos/danieldurrans/24550577383/in/dateposted/</link>
@@ -47,20 +40,6 @@
             <link>https://www.flickr.com/photos/danieldurrans/25537508533/in/dateposted/</link>
             <guid isPermaLink="false">2b299460-1d3b-489c-87ff-35d8f941444a</guid>
             <pubDate>Sat, 14 May 2016 22:32:25 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Bristol; March 2016]]></title>
-            <description><![CDATA[<article><h1>Bristol; March 2016</h1><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/d4790adfde4e1c78a888c4d7313b164c90e26daf.jpg"></article>]]></description>
-            <link>https://www.flickr.com/photos/danieldurrans/26049910026/in/dateposted/</link>
-            <guid isPermaLink="false">1b538709-fff7-42ae-b077-1b382c3ed51d</guid>
-            <pubDate>Sat, 14 May 2016 22:32:19 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Bristol; April 2016]]></title>
-            <description><![CDATA[<article><h1>Bristol; April 2016</h1><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/464d74e37a89c6f6f29630ba8125c60e1c808976.jpg"></article>]]></description>
-            <link>https://www.flickr.com/photos/danieldurrans/25880658413/in/photostream/</link>
-            <guid isPermaLink="false">d4c06899-c03c-4ab5-9112-717d6095d605</guid>
-            <pubDate>Sat, 14 May 2016 22:32:08 GMT</pubDate>
         </item>
     </channel>
 </rss>
