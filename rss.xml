@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+    <channel>
+        <title><![CDATA[decisive.photography]]></title>
+        <description><![CDATA[decisive.photography]]></description>
+        <link>http://github.com/dylang/node-rss</link>
+        <generator>The Grid</generator>
+        <lastBuildDate>Thu, 28 Jul 2016 07:57:03 GMT</lastBuildDate>
+        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[About this blog]]></title>
+            <description><![CDATA[<article><h1>About this blog</h1><p>This blog is intended to capture my thoughts on street photography and highlight interesting content that I have discovered about this style on the web.</p></article>]]></description>
+            <link>undefinedabout-this-blog/index.html</link>
+            <guid isPermaLink="false">59c533cc-528a-4ba6-872a-a9d0021ac5ff</guid>
+            <pubDate>Thu, 28 Jul 2016 07:57:02 GMT</pubDate>
+        </item>
+    </channel>
+</rss>
