@@ -4,14 +4,14 @@
         <description><![CDATA[decisive.photography]]></description>
         <link>http://decisive.photography/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Thu, 28 Jul 2016 07:59:30 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 28 Jul 2016 10:26:04 GMT</lastBuildDate>
         <atom:link href="http://decisive.photography/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
-            <title><![CDATA[About this blog]]></title>
-            <description><![CDATA[<article><h1>About this blog</h1><p>This blog is intended to capture my thoughts on street photography and highlight interesting content that I have discovered about this style on the web.</p></article>]]></description>
+            <title><![CDATA[About]]></title>
+            <description><![CDATA[<article><h1>About</h1><p>This blog is intended to capture my thoughts on street photography and highlight interesting content that I have discovered about this style on the web.</p></article>]]></description>
             <link>http://decisive.photography/about-this-blog/index.html</link>
             <guid isPermaLink="false">59c533cc-528a-4ba6-872a-a9d0021ac5ff</guid>
-            <pubDate>Thu, 28 Jul 2016 07:59:28 GMT</pubDate>
+            <pubDate>Thu, 28 Jul 2016 10:26:02 GMT</pubDate>
         </item>
     </channel>
 </rss>
