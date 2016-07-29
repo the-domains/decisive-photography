@@ -31,9 +31,6 @@ navigation:
   - name: Profile
     url: 'http://durrans.com'
     type: external
-  - name: Photography
-    url: 'http://danieldurrans.co.uk'
-    type: external
   - name: About
     id: 59c533cc-528a-4ba6-872a-a9d0021ac5ff
     type: content
