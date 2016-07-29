@@ -31,12 +31,12 @@ navigation:
   - name: Profile
     url: 'http://durrans.com'
     type: external
-  - name: About
-    id: 59c533cc-528a-4ba6-872a-a9d0021ac5ff
-    type: content
   - name: Photography
     url: 'http://danieldurrans.com'
     type: external
+  - name: About
+    id: 59c533cc-528a-4ba6-872a-a9d0021ac5ff
+    type: content
 favicon: null
 title: decisive.photography
 purpose: []
